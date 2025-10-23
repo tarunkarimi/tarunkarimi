@@ -1,87 +1,135 @@
-# 👋 Hi, I'm Tarun Teja Karimi  
-
-🎓 **Data Science & Machine Learning Enthusiast** | 💻 **Python Developer** | 📊 **Data Analyst**
-
----
-
-## 🚀 About Me  
-I'm passionate about building **data-driven applications** and **intelligent machine learning models** that solve real-world problems.  
-With strong foundations in **Python, Machine Learning, Big Data, and Cloud Computing**, I love turning data into actionable insights and interactive tools.  
-
-- 🔭 Currently working on: **End-to-End Machine Learning Projects**  
-- 🌱 Learning: **Deep Learning, NLP, and MLOps**  
-- 💬 Ask me about: **Python, ML Models, SQL, Power BI, Streamlit, Flask**  
-- 🎯 Goal: Become a **Data Scientist** specializing in **AI-driven analytics**  
-- ⚡ Fun fact: I listen to *"Fear"* by Mandatorily twice a day 🎧  
+<!-- Animated Heading -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Tarun Teja Karimi</span>!</h1>
+<h3 align="center">💻 Software Developer | 🎯 Data Science & Big Data Enthusiast | 🌐 Web Innovator</h3>
 
 ---
 
-## 🛠️ Tech Stack  
+<div align="center">
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+📞 **+91 9392813075** | 📧 [taruntejakarimi@gmail.com](mailto:taruntejakarimi@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tarunteja) • [GitHub](https://github.com/tarunkarimi) • [Portfolio](#)
 
-**Data & ML:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Big Data & Cloud:**  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Web Frameworks & Tools:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+</div>
 
 ---
 
-## 📂 Featured Projects  
+## 🎓 Education
 
-### 📧 [Email & SMS Spam Classifier](https://github.com/tarunkarimi/Email-Sms-Spam-Classifier)
-Developed an end-to-end spam detection system that classifies both email and SMS messages as spam or not spam (ham).  
-🧩 Built with **NLTK**, **Scikit-learn**, **TF-IDF**, **MultinomialNB**, and **Streamlit** for real-time prediction.  
-🎯 Achieved >97% accuracy and deployed an interactive web interface.  
-
-### 🎬 [Movie Recommendation System](https://github.com/tarunkarimi/Movie-Recommendation-System)
-Built a personalized recommendation system using **content-based** and **collaborative filtering** techniques.  
-Integrated with **Streamlit** for a sleek UI and **pickle-based model loading** for real-time suggestions.  
-
-### 📊 [Vrinda Store Data Analysis Dashboard](https://github.com/tarunkarimi/Vrinda-Store-Data-Analysis)
-Designed an interactive **Power BI** dashboard to analyze 2022 sales performance and identify business insights.  
-Implemented KPIs, slicers, and charts for regional and customer analysis.  
+| 🎓 Institution | 🏫 Degree / Course | 📍 Location | 📆 Duration | 📊 Performance |
+|----------------|--------------------|--------------|--------------|----------------|
+| **CDAC, Bangalore** | PG Diploma in Big Data Analytics | Karnataka | Feb 2025 – Aug 2025 | **80.04%** |
+| **NIT Meghalaya** | B.Tech in Computer Science & Engineering | Shillong | Dec 2020 – May 2024 | **8.06 CGPA** |
+| **Narayana Junior College** | Board of Intermediate Education (BIEAP) | Vishakapatnam | Jun 2018 – Mar 2020 | **96.2%** |
+| **Narayana High School** | Board of Secondary Education (BSEAP) | Vishakapatnam | Jun 2017 – Mar 2018 | **95%** |
 
 ---
 
-## 🧩 Skills & Interests  
-- **Machine Learning:** Regression, Classification, Clustering, Model Evaluation  
-- **Data Analytics:** Data Cleaning, Visualization, Reporting, Business Intelligence  
-- **Big Data:** Hadoop, Hive, Spark, HDFS  
-- **Cloud:** AWS (EC2, S3), Azure (Data Factory, VM)  
-- **Soft Skills:** Problem Solving, Communication, Curiosity for AI  
+## 💼 Experience
+
+### 🧩 **Software Developer Intern** — *Hivericks Technologies, Chennai*  
+📅 *June 2023 – July 2023*  
+
+- 🧠 Managed **front-end development** for *Virtual Queue Management* system.  
+- 🖥️ Designed **waiting and landing pages** for the virtual queue.  
+- 🚀 Implemented separate routes for **premium users** and supported backend **integration & testing**.
 
 ---
 
-## 📈 GitHub Stats  
+## 🚀 Major Projects
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight)
+### 🎬 **PG Diploma Project | Movie Recommendation System**  
+📅 *Feb 2025 – Jul 2025*  
+🧰 *Python, Streamlit, NumPy, Pandas, Scikit-learn, Flask, MovieLens Dataset*  
 
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunkarimi)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunkarimi)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunkarimi@gmail.com)
+- Built a **hybrid movie recommendation engine** using **Matrix Factorization (SVD)** and **ML models (XGBoost, Random Forest, LightGBM)**.  
+- Engineered **25+ features** and implemented **cold-start handling** to improve personalization for new users.  
+- Designed a **Flask backend + Streamlit UI** for real-time, dynamic movie suggestions and analytics.  
 
 ---
 
-⭐ *"Turning ideas into intelligent systems that make a difference!"*  
+### 💌 **Email & SMS Spam Classifier**  
+📅 *Oct 2025*  
+🧰 *Python, NLTK, TF-IDF, MultinomialNB, Streamlit, Scikit-learn*  
+
+- Developed an **end-to-end spam detection system** that classifies both **email and SMS messages** as spam or ham.  
+- Implemented a **TF-IDF vectorizer** and **Naïve Bayes** classifier with >97% accuracy.  
+- Built a **Streamlit web interface** for real-time message classification.  
+- Integrated **pickle-based model persistence** for efficient model loading.  
+
+🔗 [View on GitHub](https://github.com/tarunkarimi/Email-Sms-Spam-Classifier)
+
+---
+
+### ⚙️ **Attendance Management Software**  
+📅 *Feb 2023 – May 2023*  
+🧰 *React.js, Node.js, Bootstrap, MySQL, Postman*  
+
+- Created a **full-stack attendance management system** with multi-user authentication.  
+- Strengthened **login security** using **JWT, bcrypt**, and **OTP verification**.  
+- Enabled faculty-student collaboration via **activity posting and tracking module**.  
+
+---
+
+### ❤️ **Continuous Health Monitoring Using Sensors**  
+📅 *Jan 2023 – May 2024*  
+🧰 *Arduino, Bootstrap, React.js, MySQL*  
+
+- Captured **real-time health metrics** using multiple sensors.  
+- Built an **Android app** to visualize health data with React.js.  
+
+---
+
+## 🧠 Technical Skills
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | Python, Core Java, R, OOPS, Linux, Machine Learning |
+| **Libraries & Frameworks** | HTML, Bootstrap, Tailwind CSS, NumPy, Pandas, Streamlit |
+| **Tools & Technologies** | Git, Jupyter Notebook, VS Code, Power BI, Tableau, Hadoop, Spark, MS Excel |
+| **Databases** | MySQL, MongoDB |
+| **Soft Skills** | Creative Thinking, Leadership, Collaboration, Project Management |
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **COGNITIA | Robotic Events**
+  - 🥈 3rd Place – *Maze Runner*
+  - 🥉 3rd Place – *Line Follower Robot*
+  - 🥈 3rd Place – *Prison Break Out*  
+- 🏅 **NCO | Computer Talent Test (Nov 2022)** — *Gold Medal Winner* 🏆  
+
+---
+
+## 📊 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,flask,streamlit,pandas,numpy,sklearn,git,vscode,github,postman,powerbi,tableau,aws,azure" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tarunteja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:taruntejakarimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tarunkarimi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *“Transforming data into intelligence — and intelligence into action.”*
