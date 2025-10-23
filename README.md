@@ -116,6 +116,21 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ---
 
+<h2 align="center">
+  <a href="https://github.com/tarunkarimi/WeatherApp.git" target="_blank" style="text-decoration:none; color:#00C853;">
+    🌤️ WeatherApp
+  </a>
+</h2>
+<p align="center">December 2022 - January 2023</p>
+
+
+- Real-Time Weather Forecasting: Developed a web application that provides real-time weather updates using the OpenWeatherMap API.
+- User-Friendly Interface: Designed a responsive interface with HTML, CSS, and JavaScript, ensuring accessibility across devices.
+- Location-Based Services: Integrated geolocation features to display weather information based on the user's current location.
+- Interactive Features: Implemented search functionality allowing users to retrieve weather data for any city worldwide.
+
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
