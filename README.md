@@ -1,9 +1,5 @@
 <table>
   <tr>
-    <td width="150" valign="top">
-      <!-- Replace the src URL with your preferred coder GIF or profile image -->
-      <img src="https://media.giphy.com/media/3o7TKP2pQ7mDx1gkJW/giphy.gif" width="150" alt="Profile GIF"/>
-    </td>
     <td valign="top">
       <h1>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&size=25&center=true&width=700&lines=Hi,+there!+I'm+Tarun+Teja+Karimi;Welcome+to+my+GitHub+profile!;Open+Source+Contributor+%26+Collaborator;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner;Full+Stack+Data+Developer;Always+Learning+New+Technologies+%26+Skills" alt="Typing SVG"/>
@@ -15,8 +11,13 @@
         <strong>🤝 Let's Collaborate:</strong> Open-source projects, Kaggle competitions, GitHub repositories
       </p>
     </td>
+    <td width="200" valign="top">
+      <!-- Animated GIF of a person coding -->
+      <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="200" alt="Coding GIF"/>
+    </td>
   </tr>
 </table>
+
 
 
 <h1 align="center">
