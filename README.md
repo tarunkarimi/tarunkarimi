@@ -118,7 +118,7 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 <h2 align="center">
   <a href="https://github.com/tarunkarimi/WeatherApp.git" target="_blank" style="text-decoration:none; color:#00C853;">
-    🌤️ WeatherApp
+    🌤️ Real-Time Weather Tracker
   </a>
 </h2>
 <p align="center">December 2022 - January 2023</p>
