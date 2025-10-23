@@ -58,37 +58,43 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
   
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-    <figcaption>MySQL</figcaption>
   </figure>
 
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-    <figcaption>MongoDB</figcaption>
-  </figure>
-
-  <figure style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/apache_spark-original.svg" width="50" height="50" alt="Spark"/>
-    <figcaption>Spark</figcaption>
   </figure>
 
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop"/>
-    <figcaption>Hadoop</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" height="50" alt="Spark"/>
+    <figcaption>Spark</figcaption>
+  </figure>
+
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/apache_spark-original.svg" width="50" height="50" alt="Spark"/>
   </figure>
 
 </div>
+
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
   
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI"/>
+  </figure>
 
-### 🧩 Databases & Big Data  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FFB700?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50" alt="Tableau"/>
+  </figure>
 
-### 📊 Visualization Tools  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50" alt="Excel"/>
+  </figure>
+
+</div>
 
 ---
 
