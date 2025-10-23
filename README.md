@@ -29,7 +29,7 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
 
   <figure style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   </figure>
 
   <figure style="text-align: center;">
