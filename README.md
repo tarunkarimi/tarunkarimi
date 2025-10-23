@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="Left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&size=25&center=true&width=700&lines=Hi,+there!+I'm+Tarun+Teja+Karimi;Welcome+to+my+GitHub+profile!;Open+Source+Contributor+%26+Collaborator;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner" alt="Typing SVG"/>
 </h1>
 
