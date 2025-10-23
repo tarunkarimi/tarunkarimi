@@ -144,20 +144,6 @@ A recommendation engine built using **content-based** and **collaborative filter
 
 ---
 
-<h3 align="center">🔥 GitHub Streak</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-
----
-
 ## 📈 GitHub Stats  
 
 <p align="center">
