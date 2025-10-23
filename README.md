@@ -131,6 +131,14 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ---
 
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<div align="center" style="background-color:#0f111a; padding:20px 25px; border-radius:15px; width:fit-content; margin:auto; box-shadow: 0 4px 15px rgba(0,255,171,0.3);">
+  <img src="https://github-profile-trophy.vercel.app/?username=tarunkarimi&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" style="border-radius:12px;" />
+</div>
+
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
