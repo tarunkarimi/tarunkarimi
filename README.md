@@ -17,6 +17,40 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 ## 🧰 Tech Stack  
 
 ### 💻 Languages & Frameworks  
+
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
+
+  <figure style="text-align: center;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="120" alt="Python"/>
+    <figcaption>Python</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="120" alt="C"/>
+    <figcaption>C</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" alt="HTML5"/>
+    <figcaption>HTML5</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="120" alt="CSS3"/>
+    <figcaption>CSS3</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="120" alt="Streamlit"/>
+    <figcaption>Streamlit</figcaption>
+  </figure>
+
+</div>
+
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
