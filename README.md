@@ -133,7 +133,7 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ---
 
-<h3 align="center">💬 Random Quote</h3>
+<h3 align="left">💬 Random Quote</h3>
 
 <div align="center" style="background-color:#1E1E2F; padding:20px; border-radius:12px; width:fit-content; margin:auto;">
   <pre style="color:#00FFAB; font-size:16px; font-family:'Courier New', monospace;">
