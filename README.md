@@ -3,17 +3,21 @@
 </h1>
 
 
-  <strong>🤝 Let's Collaborate:</strong> Open-source projects, Kaggle competitions, GitHub repositories
-
-
 ---
 
-## 👨‍💻 About Me  
-🎓 **Data Science | Machine Learning | Big Data | Analytics Enthusiast**  
 💡 Passionate about building intelligent systems that combine ML, data analytics, and visualization.  
 🌾 From **Polaki, Andhra Pradesh** — a peaceful, green coastal village 🌿  
-🎵 I listen to “*Fear*” by Mandatorily at least twice a day — it keeps me inspired 😄  
 📚 Currently exploring **Generative AI** and **MLOps** for real-world applications.  
+
+## 👨‍💻 About Me
+
+I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Learning & Data Science enthusiast** from Polaki, Andhra Pradesh. I have a keen interest in **open source contributions**, **Big Data**, and **innovative technologies**. I love to **collaborate with other developers** and work on exciting projects that make an impact.
+
+- 🔭 **Currently working on:** Building ntelligent **Machine Learning applications** and **Analytical Dashboards** using **Power BI & Tableau**
+- 🌱 **Currently learning:** **Generative AI**, **Big Data Technologies (Hadoop, Spark, Hive)**, and **Cloud Deployment (AWS & Azure)**
+- 💻 **Tech Interests:** Python | Machine Learning | Data Analytics | Big Data | Generative AI
+- 📫 **How to reach me:** [taruntejakarimi@gmail.com@gmail.com](mailto:taruntejakarimi@gmail.com)
+- ⚡ **Fun fact:** I enjoy turning ideas into real projects, experimenting with new ML models, and contributing to open source communities
 
 ---
 
