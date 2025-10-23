@@ -147,26 +147,16 @@ A recommendation engine built using **content-based** and **collaborative filter
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tarunkarimi&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true" />
-</p>
-
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight" height="165"/>
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight" height="165"/>
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=tokyonight" alt="GitHub Streak"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true" />
+  </p>
 
 
 ---
