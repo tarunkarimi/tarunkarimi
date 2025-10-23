@@ -18,8 +18,7 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ### 💻 Languages & Frameworks  
 
-
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
+<div style="display: flex; gap: 40px; flex-wrap: nowrap; align-items: center; justify-content: flex-start;">
 
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python"/>
@@ -47,6 +46,7 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
   </div>
 
 </div>
+
 
 
 
