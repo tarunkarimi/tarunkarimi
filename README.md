@@ -82,6 +82,37 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ---
 
+<h2 align="center">💓 Continuous Health Monitoring System using Sensors</h2>
+<p align="center">March 2025 - July 2025</p>
+
+- Developed an IoT-based health tracking system using LM35 (temperature), Pulse, and AD8232 ECG sensors connected via Arduino Uno for real-time data collection.
+- Designed a database architecture to store continuous health data for each user along with details such as name, Aadhaar, phone number, and email.
+- Built an Android application that enables users to monitor their health metrics and receive live updates from the connected sensors.
+- Implemented an automatic alert system that triggers email notifications to users upon detecting abnormal health readings.
+
+---
+
+<h2 align="center">🧾 Attendance Management Software</h2>
+<p align="center">March 2025 - July 2025</p>
+
+- Collaborated in a team-based project to develop a multi-role attendance management system for students, teachers, and administrators.
+- Designed and implemented the frontend interface with interactive signup and login pages for user registration and access.
+- Enabled role-based functionalities — students can view attendance and marks, teachers can update records, and admins manage classes and credentials.
+- Focused on creating a user-friendly and secure web interface with structured data validation and smooth navigation.
+
+
+---
+
+<h2 align="center">👥 Virtual Queue Management System</h2>
+<p align="center">March 2025 - July 2025</p>
+
+- Built a web-based virtual queue application allowing customers to join queues remotely without physically standing in line.
+- Designed a registration system capturing essential details (name, Aadhaar, phone number, email) with an integrated payment gateway for premium users.
+- Implemented a priority mechanism where premium users join from the top of the queue and receive estimated waiting time notifications.
+- Added an automated notification feature via email and calls to inform users as their turn approaches or queue size changes.
+
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
