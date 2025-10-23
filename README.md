@@ -78,6 +78,10 @@ A recommendation engine built using **content-based** and **collaborative filter
 
 ---
 
+⭐ *“Code. Learn. Repeat. Every dataset tells a story — make yours worth reading.”*
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -87,10 +91,6 @@ A recommendation engine built using **content-based** and **collaborative filter
   <a href="mailto:taruntejakarimi@gmail.com"><img src="https://img.shields.io/badge/Email-taruntejakarimi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+91 9392813075"><img src="https://img.shields.io/badge/Phone-%2B919392813075-blue?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
-
----
-
-⭐ *“Code. Learn. Repeat. Every dataset tells a story — make yours worth reading.”*
 
 ---
 
