@@ -18,6 +18,43 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ### 💻 Languages & Frameworks  
 
+
+<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python"/>
+    <div style="margin-top: 8px; font-weight: bold;">Python</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" height="100" alt="C"/>
+    <div style="margin-top: 8px; font-weight: bold;">C</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" alt="HTML5"/>
+    <div style="margin-top: 8px; font-weight: bold;">HTML5</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100" alt="CSS3"/>
+    <div style="margin-top: 8px; font-weight: bold;">CSS3</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="100" height="100" alt="Streamlit"/>
+    <div style="margin-top: 8px; font-weight: bold;">Streamlit</div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
 
   <figure style="text-align: center;">
