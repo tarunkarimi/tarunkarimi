@@ -153,14 +153,10 @@ A recommendation engine built using **content-based** and **collaborative filter
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tarunkarimi&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true" />
 </p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tarunkarimi&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true" />
-</p>
+  
 
 ---
 
