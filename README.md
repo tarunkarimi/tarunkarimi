@@ -45,6 +45,14 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
   </figure>
 
 </div>
+
+
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
+  <figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_Power_BI_logo.svg" width="50" height="50" alt="Power BI"/>
+    <figcaption>Power BI</figcaption>
+</figure>
+</div>
    
 ### 🧮 Machine Learning & Data Science  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -68,64 +76,9 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop"/>
   </figure>
 
-  <figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" height="50" alt="Spark"/>
-    <figcaption>Spark</figcaption>
-  </figure>
-
-
-  <figure style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/apache_spark-original.svg" width="50" height="50" alt="Spark"/>
-  </figure>
-
-  <figure style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-white.png" width="50" height="50" alt="Spark"/>
-    <figcaption>Spark</figcaption>
-  </figure>
-
-
 </div>
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
-  
-  <figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_Power_BI_logo.svg" width="50" height="50" alt="Power BI"/>
-    <figcaption>Power BI</figcaption>
-  </figure>
-
-  <figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Tableau_Logo.png" width="50" height="50" alt="Tableau"/>
-    <figcaption>Tableau</figcaption>
-  </figure>
-
-  <figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="50" height="50" alt="Excel"/>
-    <figcaption>Excel</figcaption>
-  </figure>
-
-
-  <figure style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/apache/spark/master/spark-logo.png" width="50" height="50" alt="Spark"/>
-    <figcaption>Spark</figcaption>
-</figure>
-
-<figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Microsoft_Power_BI_Logo.svg" width="50" height="50" alt="Power BI"/>
-    <figcaption>Power BI</figcaption>
-</figure>
-
-<figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tableau_Logo.png" width="50" height="50" alt="Tableau"/>
-    <figcaption>Tableau</figcaption>
-</figure>
-
-<figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="50" height="50" alt="Excel"/>
-    <figcaption>Excel</figcaption>
-</figure>
-
-
-</div>
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;"></div>
 
 ---
 
