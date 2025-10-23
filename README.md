@@ -33,7 +33,11 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
   </figure>
 
   <figure style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R Programming"/>
+  </figure>
+  
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Core Java"/>
   </figure>
 
   <figure style="text-align: center;">
