@@ -78,6 +78,12 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/apache_spark-original.svg" width="50" height="50" alt="Spark"/>
   </figure>
 
+  <figure style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-white.png" width="50" height="50" alt="Spark"/>
+    <figcaption>Spark</figcaption>
+  </figure>
+
+
 </div>
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
