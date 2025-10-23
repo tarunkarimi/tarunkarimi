@@ -54,8 +54,7 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ## 🚀 Featured Projects  
 
-
-<h1 align="center">🎬 Movie Recommendation System</h1>
+<h3 align="center">🎬 Movie Recommendation System</h3>
 <p align="center">March 2025 - July 2025</p>
 
 - Developed an end-to-end movie recommendation engine using the MovieLens dataset, implementing both content-based and collaborative filtering techniques.
