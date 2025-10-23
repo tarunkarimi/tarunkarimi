@@ -30,67 +30,26 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/>
-    <figcaption>Python</figcaption>
   </figure>
 
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" alt="C"/>
-    <figcaption>C</figcaption>
   </figure>
 
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5"/>
-    <figcaption>HTML5</figcaption>
   </figure>
 
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3"/>
-    <figcaption>CSS3</figcaption>
   </figure>
 
   <figure style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="80" height="80" alt="Streamlit"/>
-    <figcaption>Streamlit</figcaption>
   </figure>
 
 </div>
-
-
-
-
-
-
-
-### 🧮 Machine Learning & Data Science
-
-<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="80" height="80" alt="Scikit-Learn"/>
-    <div style="margin-top: 6px; font-weight: bold;">Scikit-Learn</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas"/>
-    <div style="margin-top: 6px; font-weight: bold;">Pandas</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" height="80" alt="NumPy"/>
-    <div style="margin-top: 6px; font-weight: bold;">NumPy</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="80" height="80" alt="Matplotlib"/>
-    <div style="margin-top: 6px; font-weight: bold;">Matplotlib</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="80" height="80" alt="Seaborn"/>
-    <div style="margin-top: 6px; font-weight: bold;">Seaborn</div>
-  </div>
-
-</div>
+   
 
 
 
