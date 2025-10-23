@@ -18,14 +18,6 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ### 💻 Languages & Frameworks  
 
-
-
-
-
-
-
-
-
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
 
   <figure style="text-align: center;">
@@ -54,28 +46,38 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 </div>
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 🧮 Machine Learning & Data Science  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
+
+
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
+  
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+    <figcaption>MySQL</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+    <figcaption>MongoDB</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_spark/apache_spark-original.svg" width="50" height="50" alt="Spark"/>
+    <figcaption>Spark</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop"/>
+    <figcaption>Hadoop</figcaption>
+  </figure>
+
+</div>
+  
 
 ### 🧩 Databases & Big Data  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
