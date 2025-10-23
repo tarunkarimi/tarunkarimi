@@ -1,110 +1,87 @@
-<!-- 🌟 PROFILE BANNER -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/3dfGBQH/tarun-banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/ZL3x2Sm/tarun-banner-light.png">
-    <img alt="Tarun Teja Karimi | Machine Learning Engineer" src="https://i.ibb.co/ZL3x2Sm/tarun-banner-light.png" width="100%">
-  </picture>
-</p>
+# 👋 Hi, I'm Tarun Teja Karimi  
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun+Teja+Karimi+👋;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner;Full+Stack+Data+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-</h1>
+🎓 **Data Science & Machine Learning Enthusiast** | 💻 **Python Developer** | 📊 **Data Analyst**
 
 ---
 
-## 👨‍💻 About Me  
-🎓 **Data Science | Machine Learning | Big Data | Analytics Enthusiast**  
-💡 Passionate about building intelligent systems that combine ML, data analytics, and visualization.  
-🌾 From **Polaki, Andhra Pradesh** — a peaceful, green coastal village 🌿  
-🎵 I listen to “*Fear*” by Mandatorily at least twice a day — it keeps me inspired 😄  
-📚 Currently exploring **Generative AI** and **MLOps** for real-world applications.  
+## 🚀 About Me  
+I'm passionate about building **data-driven applications** and **intelligent machine learning models** that solve real-world problems.  
+With strong foundations in **Python, Machine Learning, Big Data, and Cloud Computing**, I love turning data into actionable insights and interactive tools.  
+
+- 🔭 Currently working on: **End-to-End Machine Learning Projects**  
+- 🌱 Learning: **Deep Learning, NLP, and MLOps**  
+- 💬 Ask me about: **Python, ML Models, SQL, Power BI, Streamlit, Flask**  
+- 🎯 Goal: Become a **Data Scientist** specializing in **AI-driven analytics**  
+- ⚡ Fun fact: I listen to *"Fear"* by Mandatorily twice a day 🎧  
 
 ---
 
-## 🧰 Tech Stack  
+## 🛠️ Tech Stack  
 
-### 💻 Languages & Frameworks  
+**Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🧮 Machine Learning & Data Science  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Data & ML:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🧩 Databases & Big Data  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FFB700?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+**Big Data & Cloud:**  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 📊 Visualization Tools  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Web Frameworks & Tools:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects  
+## 📂 Featured Projects  
 
 ### 📧 [Email & SMS Spam Classifier](https://github.com/tarunkarimi/Email-Sms-Spam-Classifier)
-Developed an end-to-end spam detection system that classifies both email and SMS messages as spam or not spam.  
-- Built using **TF-IDF vectorization** and **Multinomial Naive Bayes**  
-- Deployed using **Streamlit** for real-time predictions  
-- Integrated model saving with Pickle for reproducibility  
-
----
+Developed an end-to-end spam detection system that classifies both email and SMS messages as spam or not spam (ham).  
+🧩 Built with **NLTK**, **Scikit-learn**, **TF-IDF**, **MultinomialNB**, and **Streamlit** for real-time prediction.  
+🎯 Achieved >97% accuracy and deployed an interactive web interface.  
 
 ### 🎬 [Movie Recommendation System](https://github.com/tarunkarimi/Movie-Recommendation-System)
-A recommendation engine built using **content-based** and **collaborative filtering** techniques.  
-- Utilized **Cosine Similarity** to find related movies  
-- Clean UI built using Streamlit  
-- Optimized recommendation pipeline for faster responses  
+Built a personalized recommendation system using **content-based** and **collaborative filtering** techniques.  
+Integrated with **Streamlit** for a sleek UI and **pickle-based model loading** for real-time suggestions.  
+
+### 📊 [Vrinda Store Data Analysis Dashboard](https://github.com/tarunkarimi/Vrinda-Store-Data-Analysis)
+Designed an interactive **Power BI** dashboard to analyze 2022 sales performance and identify business insights.  
+Implemented KPIs, slicers, and charts for regional and customer analysis.  
 
 ---
 
-### 📊 [Vrinda Store Analysis Dashboard (Excel BI)](https://github.com/tarunkarimi/Vrinda-Store-Analysis)
-Interactive Excel-based business intelligence dashboard for 2022 store performance.  
-- Visualized KPIs: sales, profit, order trends, customer segments  
-- Provided actionable insights to improve future sales strategies  
+## 🧩 Skills & Interests  
+- **Machine Learning:** Regression, Classification, Clustering, Model Evaluation  
+- **Data Analytics:** Data Cleaning, Visualization, Reporting, Business Intelligence  
+- **Big Data:** Hadoop, Hive, Spark, HDFS  
+- **Cloud:** AWS (EC2, S3), Azure (Data Factory, VM)  
+- **Soft Skills:** Problem Solving, Communication, Curiosity for AI  
 
 ---
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tarunkarimi&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-- 🥇 Built **Grammar Scoring Engine** using GenAI for a national-level competition (Pearson Correlation evaluation)  
-- 🎓 Completed **Big Data and Machine Learning coursework** at CDAC  
-- 💪 Quit alcohol and weed successfully — a proud personal achievement  
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://linkedin.com/in/taruntejakarimi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/tarunkarimi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:taruntejakarimi@gmail.com"><img src="https://img.shields.io/badge/Email-taruntejakarimi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunkarimi)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunkarimi)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunkarimi@gmail.com)
 
 ---
 
-⭐ *“Code. Learn. Repeat. Every dataset tells a story — make yours worth reading.”*
+⭐ *"Turning ideas into intelligent systems that make a difference!"*  
