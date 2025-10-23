@@ -91,7 +91,10 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 ### 📊 Visualization Tools
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
-  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 </div>
 
 ---
