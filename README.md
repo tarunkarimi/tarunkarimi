@@ -120,11 +120,9 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ### 📊 Visualization Tools
 
-
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
   ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
 
 ---
 
@@ -150,6 +148,13 @@ A recommendation engine built using **content-based** and **collaborative filter
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
 
 ---
 
