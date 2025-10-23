@@ -5,10 +5,6 @@
 
 ---
 
-💡 Passionate about building intelligent systems that combine ML, data analytics, and visualization.  
-🌾 From **Polaki, Andhra Pradesh** — a peaceful, green coastal village 🌿  
-📚 Currently exploring **Generative AI** and **MLOps** for real-world applications.  
-
 ## 👨‍💻 About Me
 
 I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Learning & Data Science enthusiast** from Polaki, Andhra Pradesh. I have a keen interest in **open source contributions**, **Big Data**, and **innovative technologies**. I love to **collaborate with other developers** and work on exciting projects that make an impact.
