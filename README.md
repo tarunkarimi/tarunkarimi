@@ -92,7 +92,11 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ---
 
-<h2 align="center">👥 Virtual Queue Management System</h2>
+<h2 align="center">
+  <a href="https://github.com/tarunkarimi/VirtualQueue.git" target="_blank" style="text-decoration:none; color:#00C853;">
+    👥 Virtual Queue Management System
+  </a>
+</h2>
 <p align="center">June 2023 - July 2023</p>
 
 - Built a web-based virtual queue application allowing customers to join queues remotely without physically standing in line.
