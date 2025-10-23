@@ -21,31 +21,32 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
 
   <figure style="text-align: center;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="120" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/>
     <figcaption>Python</figcaption>
   </figure>
 
   <figure style="text-align: center;">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="120" alt="C"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" alt="C"/>
     <figcaption>C</figcaption>
   </figure>
 
   <figure style="text-align: center;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" alt="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5"/>
     <figcaption>HTML5</figcaption>
   </figure>
 
   <figure style="text-align: center;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="120" alt="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3"/>
     <figcaption>CSS3</figcaption>
   </figure>
 
   <figure style="text-align: center;">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="120" alt="Streamlit"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="80" height="80" alt="Streamlit"/>
     <figcaption>Streamlit</figcaption>
   </figure>
 
 </div>
+
 
 
 
