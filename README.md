@@ -146,10 +146,10 @@ A recommendation engine built using **content-based** and **collaborative filter
 
 ---
 
-### 📊 [Vrinda Store Analysis Dashboard (Excel BI)](https://github.com/tarunkarimi/Vrinda-Store-Analysis)
-Interactive Excel-based business intelligence dashboard for 2022 store performance.  
-- Visualized KPIs: sales, profit, order trends, customer segments  
-- Provided actionable insights to improve future sales strategies  
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
