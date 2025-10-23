@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&size=25&center=true&width=700&lines=Hi,+there!+I'm+Tarun+Teja+Karimi;Welcome+to+my+GitHub+profile!;Open+Source+Contributor+%26+Collaborator;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner" alt="Typing SVG"/>
 </h1>
 
-<h1>👨‍💻 About Me </h1>
+## 👨‍💻 About Me
 
 I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Learning & Data Science enthusiast** from Polaki, Andhra Pradesh. I have a keen interest in **open source contributions**, **Big Data**, and **innovative technologies**. I love to **collaborate with other developers** and work on exciting projects that make an impact.
 
