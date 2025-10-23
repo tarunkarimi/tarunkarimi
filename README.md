@@ -46,12 +46,40 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 </div>
 
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="80" height="80" alt="Scikit-Learn"/>
+    <figcaption>Scikit-Learn</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas"/>
+    <figcaption>Pandas</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" height="80" alt="NumPy"/>
+    <figcaption>NumPy</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="80" height="80" alt="Matplotlib"/>
+    <figcaption>Matplotlib</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="80" height="80" alt="Seaborn"/>
+    <figcaption>Seaborn</figcaption>
+  </figure>
+
+</div>
+
+
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: left;">
-  <figure style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Microsoft_Power_BI_logo.svg" width="50" height="50" alt="Power BI"/>
-    <figcaption>Power BI</figcaption>
-</figure>
+  
+
 </div>
    
 ### 🧮 Machine Learning & Data Science  
