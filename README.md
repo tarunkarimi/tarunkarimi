@@ -143,10 +143,11 @@ Interactive Excel-based business intelligence dashboard for 2022 store performan
 ## 🌐 Connect with Me  
 
 <p align="center">
+  <p align="center">
   <a href="https://linkedin.com/in/taruntejakarimi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/tarunkarimi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:taruntejakarimi@gmail.com"><img src="https://img.shields.io/badge/Email-taruntejakarimi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />   </a>
-  <a href="tel:+91 9392813075"><img src="https://img.shields.io/badge/Phone-%2B919876543210-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
+  <a href="mailto:taruntejakarimi@gmail.com"><img src="https://img.shields.io/badge/Email-taruntejakarimi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+919392813075"><img src="https://img.shields.io/badge/Phone-%2B919392813075-blue?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
 
 ---
