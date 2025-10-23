@@ -179,6 +179,18 @@ and only incidentally for machines to execute."
 </div>
 
 
+<h3 align="center">💬 Famous Line</h3>
+
+<div align="center" style="background:#1E1E2F; padding:20px; border-radius:12px; width:fit-content; margin:auto;">
+<pre style="color:#00FFAB; font-family:'Courier New', monospace; font-size:16px; line-height:1.5;">
+"Programs must be written for people to read,
+and only incidentally for machines to execute."
+                  – Harold Abelson
+</pre>
+</div>
+
+
+
 ---
 
 ## 🌐 Connect with Me  
