@@ -103,6 +103,28 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
     <figcaption>Excel</figcaption>
   </figure>
 
+
+  <figure style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/apache/spark/master/spark-logo.png" width="50" height="50" alt="Spark"/>
+    <figcaption>Spark</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Microsoft_Power_BI_Logo.svg" width="50" height="50" alt="Power BI"/>
+    <figcaption>Power BI</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tableau_Logo.png" width="50" height="50" alt="Tableau"/>
+    <figcaption>Tableau</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="50" height="50" alt="Excel"/>
+    <figcaption>Excel</figcaption>
+</figure>
+
+
 </div>
 
 ---
