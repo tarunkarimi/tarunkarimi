@@ -152,7 +152,6 @@ Interactive Excel-based business intelligence dashboard for 2022 store performan
 ---
 
 ### 📱 GitHub Profile QR Code :
-<h3 align="left"> Scan to Connect</h3>
 <p align="left">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/tarunkarimi" alt="QR Code to LinkedIn" />
 </p>
