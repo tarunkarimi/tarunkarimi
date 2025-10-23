@@ -1,3 +1,12 @@
+<!-- 🌟 PROFILE BANNER -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/3dfGBQH/tarun-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/ZL3x2Sm/tarun-banner-light.png">
+    <img alt="Tarun Teja Karimi | Machine Learning Engineer" src="https://i.ibb.co/ZL3x2Sm/tarun-banner-light.png" width="100%">
+  </picture>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun+Teja+Karimi+👋;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner;Full+Stack+Data+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
