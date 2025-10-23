@@ -54,7 +54,11 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ## 🚀 Featured Projects  
 
-<h3 align="center">🎬 Movie Recommendation System</h3>
+<h2 align="center">
+  <a href="https://github.com/tarunkarimi/Movie_Recommendation_System" target="_blank" style="text-decoration:none; color:#00C853;">
+    🎬 Movie Recommendation System
+  </a>
+</h2>
 <p align="center">March 2025 - July 2025</p>
 
 - Developed an end-to-end movie recommendation engine using the MovieLens dataset, implementing both content-based and collaborative filtering techniques.
@@ -62,39 +66,19 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 - Built an interactive Streamlit web application for real-time, personalized movie recommendations and user analytics.
 - Designed a scalable, modular architecture supporting data preprocessing, model training, evaluation (RMSE, Precision@K), and deployment.
 
----
+--- 
 
-### 🧩 Key Features  
-✅ End-to-end recommendation pipeline (data → model → UI)  
-✅ Hybrid filtering (content + collaborative)  
-✅ ML models — XGBoost, Random Forest for precision improvement  
-✅ Real-time, personalized movie suggestions  
-✅ Cold-start handling for new users  
-✅ Intuitive and interactive UI with analytics dashboard  
+<h2 align="center">
+  <a href="https://github.com/tarunkarimi/Email-Sms-Spam-Classifier.git" target="_blank" style="text-decoration:none; color:#00C853;">
+    📧 Email & SMS Spam Classifier
+  </a>
+</h2>
+<p align="center">August 2025 - September 2025</p>
 
----
-
-### 🚀 Project Highlights  
-1. **Hybrid Recommendation Engine** – Combines collaborative filtering with ML-based ranking.  
-2. **Feature Engineering** – Extracted 25+ behavioral and contextual features.  
-3. **Interactive Web App** – Built with Streamlit for dynamic recommendations.  
-4. **Scalable Architecture** – Modular code for training, evaluation, and deployment.  
-
-
-
-### 📧 [Email & SMS Spam Classifier](https://github.com/tarunkarimi/Email-Sms-Spam-Classifier)
-Developed an end-to-end spam detection system that classifies both email and SMS messages as spam or not spam.  
-- Built using **TF-IDF vectorization** and **Multinomial Naive Bayes**  
-- Deployed using **Streamlit** for real-time predictions  
-- Integrated model saving with Pickle for reproducibility  
-
----
-
-### 🎬 [Movie Recommendation System](https://github.com/tarunkarimi/Movie-Recommendation-System)
-A recommendation engine built using **content-based** and **collaborative filtering** techniques.  
-- Utilized **Cosine Similarity** to find related movies  
-- Clean UI built using Streamlit  
-- Optimized recommendation pipeline for faster responses  
+- Built a machine-learning pipeline to classify both emails and SMS messages as spam or not-spam, using real-world message data.
+- Implemented text preprocessing (tokenization, cleaning, vectorization) and trained classic models (e.g., Naïve Bayes) to achieve reliable detection of unwanted content.
+- Developed a user-friendly interface (e.g., via Streamlit or web app) allowing users to input a message and receive instant classification results.
+- Created a modular, end-to-end system covering data ingestion, model training & evaluation, and deployment—demonstrating full-stack ML capabilities. 
 
 ---
 
