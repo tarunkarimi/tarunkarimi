@@ -54,6 +54,72 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ## 🚀 Featured Projects  
 
+
+<h1 align="center">🎬 Movie Recommendation System</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=🎥+Personalized+Movie+Recommender;📊+Hybrid+Filtering+%7C+Machine+Learning+%7C+Analytics;🚀+Streamlit+Web+App+with+Real-Time+Suggestions" alt="Typing Animation" />
+</p>
+
+---
+
+### 🌟 Overview  
+A full-stack **Movie Recommendation System** built using the **MovieLens dataset**, combining both **collaborative filtering** and **machine learning** to deliver personalized recommendations through a sleek **Streamlit web interface**.
+
+---
+
+### 🧩 Key Features  
+✅ End-to-end recommendation pipeline (data → model → UI)  
+✅ Hybrid filtering (content + collaborative)  
+✅ ML models — XGBoost, Random Forest for precision improvement  
+✅ Real-time, personalized movie suggestions  
+✅ Cold-start handling for new users  
+✅ Intuitive and interactive UI with analytics dashboard  
+
+---
+
+### 🧠 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Project Highlights  
+1. **Hybrid Recommendation Engine** – Combines collaborative filtering with ML-based ranking.  
+2. **Feature Engineering** – Extracted 25+ behavioral and contextual features.  
+3. **Interactive Web App** – Built with Streamlit for dynamic recommendations.  
+4. **Scalable Architecture** – Modular code for training, evaluation, and deployment.  
+
+---
+
+### 📊 Performance  
+📈 Achieved RMSE ≈ **1.12**, MAE ≈ **0.87**, and top-k metrics (Precision@K, Recall@K, NDCG@K).  
+⚡ Generates recommendations in **under 3 seconds** for any user.
+
+---
+
+### 💻 Run Locally  
+```bash
+# Clone repo
+git clone https://github.com/tarunkarimi/Movie_Recommendation_System.git
+cd Movie_Recommendation_System
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Streamlit app
+streamlit run app.py
+
+
+
+
+
 ### 📧 [Email & SMS Spam Classifier](https://github.com/tarunkarimi/Email-Sms-Spam-Classifier)
 Developed an end-to-end spam detection system that classifies both email and SMS messages as spam or not spam.  
 - Built using **TF-IDF vectorization** and **Multinomial Naive Bayes**  
