@@ -56,15 +56,12 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 
 <h1 align="center">🎬 Movie Recommendation System</h1>
-<h3 align="center">March 2025 - July 2025</h3>
+<p align="center">March 2025 - July 2025</p>
 
-Developed an end-to-end movie recommendation engine using the MovieLens dataset, implementing both content-based and collaborative filtering techniques.
-
-Enhanced accuracy with machine learning models (XGBoost, Random Forest) and advanced feature engineering on user–movie interactions.
-
-Built an interactive Streamlit web application for real-time, personalized movie recommendations and user analytics.
-
-Designed a scalable, modular architecture supporting data preprocessing, model training, evaluation (RMSE, Precision@K), and deployment.
+- Developed an end-to-end movie recommendation engine using the MovieLens dataset, implementing both content-based and collaborative filtering techniques.
+- Enhanced accuracy with machine learning models (XGBoost, Random Forest) and advanced feature engineering on user–movie interactions.
+- Built an interactive Streamlit web application for real-time, personalized movie recommendations and user analytics.
+- Designed a scalable, modular architecture supporting data preprocessing, model training, evaluation (RMSE, Precision@K), and deployment.
 
 ---
 
