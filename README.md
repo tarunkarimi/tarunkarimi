@@ -49,7 +49,7 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 <div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
 
   <figure style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="80" height="80" alt="Scikit-Learn"/>
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" width="80" height="80" alt="Scikit-Learn"/>
     <figcaption>Scikit-Learn</figcaption>
   </figure>
 
