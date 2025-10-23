@@ -1,6 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun+Teja+Karimi+👋;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner;Full+Stack+Data+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&size=25&center=true&width=700&lines=Hi,+there!+I'm+Tarun+Teja+Karimi;Welcome+to+my+GitHub+profile!;Open+Source+Contributor+%26+Collaborator;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner;Full+Stack+Data+Developer;Always+Learning+New+Technologies+%26+Skills" alt="Typing SVG"/>
 </h1>
+
+<p align="center">
+  <strong>🌟 Tech Interests:</strong> Python | ML & AI | Data Analytics | Big Data | Full Stack Development <br>
+  <strong>💻 Tools & Frameworks:</strong> Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Spark | Flask | Streamlit | Tableau <br>
+  <strong>🤝 Let's Collaborate:</strong> Open-source projects, Kaggle competitions, GitHub repositories
+</p>
+
 
 ---
 
