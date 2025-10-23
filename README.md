@@ -143,6 +143,42 @@ and only incidentally for machines to execute."
   </pre>
 </div>
 
+
+<h3 align="center">💬 Famous Line</h3>
+
+<div align="center" style="background-color:#0f111a; padding:25px; border-radius:15px; width:fit-content; margin:auto; box-shadow: 0 4px 15px rgba(0,255,171,0.3);">
+  <pre style="color:#00FFAB; font-size:16px; font-family:'Fira Code', monospace; line-height:1.5;">
+"Programs must be written for people to read,
+and only incidentally for machines to execute."
+                  – Harold Abelson
+  </pre>
+</div>
+
+
+
+<h3 align="center">💬 Famous Line</h3>
+
+<div align="center" style="background-color:#f5f5f5; padding:20px; border-radius:12px; width:fit-content; margin:auto;">
+  <pre style="font-family:'Arial', sans-serif; font-size:16px; background: linear-gradient(90deg,#FF6B6B,#FFD93D,#6BCB77); -webkit-background-clip: text; color: transparent; line-height:1.5;">
+"Programs must be written for people to read,
+and only incidentally for machines to execute."
+                  – Harold Abelson
+  </pre>
+</div>
+
+
+
+<h3 align="center">💬 Famous Line</h3>
+
+<div align="center" style="background-color:#e0f7fa; padding:20px 30px; border-radius:20px; width:fit-content; margin:auto; border:2px solid #00acc1;">
+  <pre style="color:#006064; font-family:'Verdana', sans-serif; font-size:16px; line-height:1.5;">
+"Programs must be written for people to read,
+and only incidentally for machines to execute."
+                  – Harold Abelson
+  </pre>
+</div>
+
+
 ---
 
 ## 🌐 Connect with Me  
