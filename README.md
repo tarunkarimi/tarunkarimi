@@ -1,135 +1,74 @@
-<!-- Animated Heading -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Tarun Teja Karimi</span>!</h1>
-<h3 align="center">💻 Software Developer | 🎯 Data Science & Big Data Enthusiast | 🌐 Web Innovator</h3>
-
----
-
-<div align="center">
-
-📞 **+91 9392813075** | 📧 [taruntejakarimi@gmail.com](mailto:taruntejakarimi@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tarunteja) • [GitHub](https://github.com/tarunkarimi) • [Portfolio](#)
-
-</div>
-
----
-
-## 🎓 Education
-
-| 🎓 Institution | 🏫 Degree / Course | 📍 Location | 📆 Duration | 📊 Performance |
-|----------------|--------------------|--------------|--------------|----------------|
-| **CDAC, Bangalore** | PG Diploma in Big Data Analytics | Karnataka | Feb 2025 – Aug 2025 | **80.04%** |
-| **NIT Meghalaya** | B.Tech in Computer Science & Engineering | Shillong | Dec 2020 – May 2024 | **8.06 CGPA** |
-| **Narayana Junior College** | Board of Intermediate Education (BIEAP) | Vishakapatnam | Jun 2018 – Mar 2020 | **96.2%** |
-| **Narayana High School** | Board of Secondary Education (BSEAP) | Vishakapatnam | Jun 2017 – Mar 2018 | **95%** |
-
----
-
-## 💼 Experience
-
-### 🧩 **Software Developer Intern** — *Hivericks Technologies, Chennai*  
-📅 *June 2023 – July 2023*  
-
-- 🧠 Managed **front-end development** for *Virtual Queue Management* system.  
-- 🖥️ Designed **waiting and landing pages** for the virtual queue.  
-- 🚀 Implemented separate routes for **premium users** and supported backend **integration & testing**.
-
----
-
-## 🚀 Major Projects
-
-### 🎬 **PG Diploma Project | Movie Recommendation System**  
-📅 *Feb 2025 – Jul 2025*  
-🧰 *Python, Streamlit, NumPy, Pandas, Scikit-learn, Flask, MovieLens Dataset*  
-
-- Built a **hybrid movie recommendation engine** using **Matrix Factorization (SVD)** and **ML models (XGBoost, Random Forest, LightGBM)**.  
-- Engineered **25+ features** and implemented **cold-start handling** to improve personalization for new users.  
-- Designed a **Flask backend + Streamlit UI** for real-time, dynamic movie suggestions and analytics.  
-
----
-
-### 💌 **Email & SMS Spam Classifier**  
-📅 *Oct 2025*  
-🧰 *Python, NLTK, TF-IDF, MultinomialNB, Streamlit, Scikit-learn*  
-
-- Developed an **end-to-end spam detection system** that classifies both **email and SMS messages** as spam or ham.  
-- Implemented a **TF-IDF vectorizer** and **Naïve Bayes** classifier with >97% accuracy.  
-- Built a **Streamlit web interface** for real-time message classification.  
-- Integrated **pickle-based model persistence** for efficient model loading.  
-
-🔗 [View on GitHub](https://github.com/tarunkarimi/Email-Sms-Spam-Classifier)
-
----
-
-### ⚙️ **Attendance Management Software**  
-📅 *Feb 2023 – May 2023*  
-🧰 *React.js, Node.js, Bootstrap, MySQL, Postman*  
-
-- Created a **full-stack attendance management system** with multi-user authentication.  
-- Strengthened **login security** using **JWT, bcrypt**, and **OTP verification**.  
-- Enabled faculty-student collaboration via **activity posting and tracking module**.  
-
----
-
-### ❤️ **Continuous Health Monitoring Using Sensors**  
-📅 *Jan 2023 – May 2024*  
-🧰 *Arduino, Bootstrap, React.js, MySQL*  
-
-- Captured **real-time health metrics** using multiple sensors.  
-- Built an **Android app** to visualize health data with React.js.  
-
----
-
-## 🧠 Technical Skills
-
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Languages** | Python, Core Java, R, OOPS, Linux, Machine Learning |
-| **Libraries & Frameworks** | HTML, Bootstrap, Tailwind CSS, NumPy, Pandas, Streamlit |
-| **Tools & Technologies** | Git, Jupyter Notebook, VS Code, Power BI, Tableau, Hadoop, Spark, MS Excel |
-| **Databases** | MySQL, MongoDB |
-| **Soft Skills** | Creative Thinking, Leadership, Collaboration, Project Management |
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🥇 **COGNITIA | Robotic Events**
-  - 🥈 3rd Place – *Maze Runner*
-  - 🥉 3rd Place – *Line Follower Robot*
-  - 🥈 3rd Place – *Prison Break Out*  
-- 🏅 **NCO | Computer Talent Test (Nov 2022)** — *Gold Medal Winner* 🏆  
-
----
-
-## 📊 Tools I Use
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm <a href="#">sAI kumar Guduru 👋</a></h1>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,flask,streamlit,pandas,numpy,sklearn,git,vscode,github,postman,powerbi,tableau,aws,azure" />
+  <img src="https://i.imgur.com/3H0cD4U.gif" width="400" alt="Developer at work"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 👨‍💻 About Me:
+I am a passionate software developer with a keen interest in open-source contributions and innovative technologies.  
+I love to collaborate with other developers and work on exciting projects.
+
+- 🧠 Currently working on **Digitization of Medical Records using OCR**
+- 🌱 Currently learning **Big Data Analytics and Cloud Engineering**
+- 📫 Reach me at: **skg.13.edu@gmail.com**
+- ⚡ Fun fact: *I love exploring new technologies and solving complex problems!*
+
+---
+
+### 🧰 Languages and Tools:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkarimi&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux,figma,azure,flask,tensorflow,postgres,r" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
+### 🔥 Streak Stats:
 <p align="center">
-  <a href="https://linkedin.com/in/tarunteja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:taruntejakarimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/tarunkarimi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skg1312&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-⭐ *“Transforming data into intelligence — and intelligence into action.”*
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skg1312&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skg1312&layout=compact&theme=radical&hide_border=true" height="180em"/>
+</p>
+
+---
+
+### 🧩 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skg1312&theme=react-dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="https://github.com/skg1312" target="_blank">
+    <img src="https://img.shields.io/badge/-SaiKumarGuduru-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:skg.13.edu@gmail.com">
+    <img src="https://img.shields.io/badge/-skg.13.edu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Random Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
+### 🧠 Inspiration
+> “Debugging is twice as hard as writing the code in the first place.  
+> Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.”  
+> — *Brian Kernighan*
