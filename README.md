@@ -135,6 +135,19 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ⭐ *“Code. Learn. Repeat. Every dataset tells a story — make yours worth reading.”*
 
+<h3 align="center">💬 Randome Quote</h3>
+
+<div align="center">
+
+<pre>
+"Programs must be written for people to read,
+and only incidentally for machines to execute."
+                   – Harold Abelson
+</pre>
+
+</div>
+
+
 ---
 
 ## 🌐 Connect with Me  
