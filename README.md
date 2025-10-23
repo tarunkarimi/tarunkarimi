@@ -1,17 +1,15 @@
-# 👋 Hi there, I'm Tarun Teja Karimi  
-
-🎓 **Data Science | Machine Learning | Big Data | Analytics Enthusiast**  
-💡 Passionate about building intelligent systems that combine machine learning, data analytics, and visualization.  
-🌱 Constantly exploring AI, NLP, and modern data pipelines.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun+Teja+Karimi+👋;Machine+Learning+%26+Data+Science+Enthusiast;Big+Data+%26+Analytics+Learner;Full+Stack+Data+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🧠 About Me  
-- 💼 Recent **CDAC Graduate (Big Data & AI specialization)**  
-- 🎯 Focused on **Data Science, MLOps, and Visualization Tools**  
-- 🧩 Experienced in **Python, Machine Learning, SQL, Streamlit, Power BI, Tableau**  
-- 🎵 I listen to “*Fear*” by Mandatorily at least twice a day — it keeps me inspired 😄  
-- 🌾 From **Polaki, Andhra Pradesh**, surrounded by greenery and peace 🌿  
+## 👨‍💻 About Me  
+🎓 **Data Science | Machine Learning | Big Data | Analytics Enthusiast**  
+💡 Passionate about building intelligent systems that combine ML, data analytics, and visualization.  
+🌾 From **Polaki, Andhra Pradesh** — a peaceful, green coastal village 🌿  
+🎵 I listen to “*Fear*” by Mandatorily at least twice a day — it keeps me inspired 😄  
+📚 Currently exploring **Generative AI** and **MLOps** for real-world applications.  
 
 ---
 
@@ -71,26 +69,33 @@ Interactive Excel-based business intelligence dashboard for 2022 store performan
 
 ## 📈 GitHub Stats  
 
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=tarunkarimi&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunkarimi&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkarimi&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tarunkarimi&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunkarimi&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
 - 🥇 Built **Grammar Scoring Engine** using GenAI for a national-level competition (Pearson Correlation evaluation)  
 - 🎓 Completed **Big Data and Machine Learning coursework** at CDAC  
-- 💪 Quit alcohol and weed successfully — a proud life achievement  
+- 💪 Quit alcohol and weed successfully — a proud personal achievement  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taruntejakarimi)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunkarimi)
-[![Email](https://img.shields.io/badge/Email-taruntejakarimi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taruntejakarimi@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/taruntejakarimi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/tarunkarimi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:taruntejakarimi@gmail.com"><img src="https://img.shields.io/badge/Email-taruntejakarimi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐ *"Code. Learn. Repeat. Every dataset tells a story — make yours worth reading."*
+⭐ *“Code. Learn. Repeat. Every dataset tells a story — make yours worth reading.”*
