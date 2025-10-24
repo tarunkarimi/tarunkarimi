@@ -82,6 +82,21 @@ I am **Tarun Teja Karimi**, a passionate **software developer** and **Machine Le
 
 ---
 
+<h2 align="center">
+  <a href="https://github.com/tarunkarimi/Image-Classification" target="_blank" style="text-decoration:none; color:#00C853;">
+    🖼️ Image Classification
+  </a>
+</h2>
+<p align="center">October 2025</p>
+
+- Developed an end-to-end image classification system using CNNs with Keras and TensorFlow, trained on a custom dataset of images.  
+- Enhanced model accuracy with image preprocessing (resizing, normalization) and data augmentation techniques.  
+- Built an interactive **Streamlit web application** for real-time image uploads and class predictions.  
+- Designed a modular architecture supporting model training, evaluation (accuracy, loss), and easy deployment for new datasets.
+
+
+---
+
 <h2 align="center">💓 Continuous Health Monitoring System using Sensors</h2>
 <p align="center">August 2023 - May 2024</p>
 
